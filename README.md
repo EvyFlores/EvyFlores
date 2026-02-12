@@ -20,6 +20,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=evyflores&show_icons=true&locale=en&layout=compact" alt="evyflores" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=evyflores" alt="evyflores" />
-</p>
